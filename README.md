@@ -50,3 +50,22 @@ public void responderPreguntas() {
     
 }
 
+```
+### Instrucciones:
+
+1. **Crear un Repositorio en GitHub:**
+   - Crea un repositorio en **GitHub** para almacenar tu solución. Puedes nombrarlo como desees, por ejemplo, "java-herencia-empleados".
+   
+2. **Programar el Diagrama en Java:**
+   - Utiliza tu entorno de desarrollo preferido para escribir el código **Java** que implemente el ejercicio propuesto. Asegúrate de incluir las clases `Persona`, `Empleado` y el método `responderPreguntas()` para responder a las preguntas planteadas.
+
+3. **Subir el Código al Repositorio:**
+   - Sube tu código **Java** al repositorio que creaste en **GitHub**. Puedes agregar un archivo **README.md** para proporcionar información adicional sobre tu solución, como una breve descripción del ejercicio y cómo ejecutar el código.
+
+4. **Escribir un Método para Responder las Preguntas:**
+   - En tu código **Java**, implementa un método llamado `responderPreguntas()` que imprima en la consola las preguntas y las respuestas propuestas en el ejercicio.
+
+5. **Reportar el Enlace del Repositorio:**
+   - Una vez que hayas completado los pasos anteriores y subido tu solución a **GitHub**, comparte el enlace del repositorio por medio de **Microsoft Teams** para que pueda revisarlo.
+
+
